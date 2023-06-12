@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aye Myint Myat Aung.</h1>
-<h3 align="center">A passionate wrb developer from Myanmar.</h3>
+<h3 align="center">A passionate web developer from Myanmar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightowl&label=Profile%20views&color=0e75b6&style=flat" alt="nightowl" /> </p>
 
